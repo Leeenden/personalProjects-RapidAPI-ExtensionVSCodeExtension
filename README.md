@@ -1,0 +1,1 @@
+# personalProjects-RapidAPI-ExtensionVSCodeExtension
